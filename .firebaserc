@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfire-3999b": {
+      "hosting": {
+        "angularfire": [
+          "angularfire-3999b"
+        ]
+      }
+    }
+  }
+}
